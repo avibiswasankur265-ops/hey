@@ -12,7 +12,7 @@ void circle(float cx,float cy,float r)
     }
     glEnd();
 }
-
+sadid
 // -------- HOUSE --------
 void drawHouse(float x)
 {
